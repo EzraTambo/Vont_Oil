@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.vont_oil.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.vont_oil.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.vont_oil.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <activity
+        android:id="@+id/dashboard"
+        android:name="com.example.vont_oil.Activitydashboard"
+        android:label="dashboard"
+        tools:layout="@layout/activity_dashboard"/>
+
+    <activity
+        android:id="@+id/signout"
+        android:name= "com.example.vont_oil.Signout"
+        android:label="dashboard"
+        tools:layout="@layout/activity_signout"/>
+
+    <activity
+        android:id="@+id/facebook"
+        android:name= "com.example.vont_oil.facebook"
+        android:label="facebook"
+        tools:layout="@layout/activity_facebook"/>
+
+
+    <activity
+        android:id="@+id/instagram"
+        android:name= "com.example.vont_oil.instagram"
+        android:label="instagram"
+        tools:layout="@layout/activity_instagram"/>
+
+
+
+
+</navigation>

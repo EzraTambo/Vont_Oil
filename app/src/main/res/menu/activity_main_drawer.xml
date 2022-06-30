@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/dashboard"
+            android:icon="@drawable/dashboardicon"
+            android:title="@string/dashboard" />
+
+
+    </group>
+
+    <group>
+        <item android:title="Account">
+
+
+            <menu>
+
+                <item
+                    android:id="@+id/facebook"
+                    android:icon="@drawable/signout"
+                    android:title="Signout">
+
+                </item>
+
+
+            </menu>
+
+        </item>
+    </group>
+
+    <group>
+        <item android:title="Social Handles">
+
+
+            <menu>
+
+                <item
+                    android:id="@+id/signout"
+                    android:icon="@drawable/facebook"
+                    android:title="Facebook">
+
+                </item>
+
+                <item
+                    android:id="@+id/instagram"
+                    android:icon="@drawable/ic_instagram_square_brands"
+                    android:title="Instagram">
+
+                </item>
+
+
+            </menu>
+
+        </item>
+    </group>
+    <group>
+        <item android:title="Review">
+
+            <menu>
+                <item
+                    android:id="@+id/rate_us"
+                    android:icon="@drawable/rateus"
+                    android:title="Rate Us">
+
+                </item>
+
+            </menu>
+
+        </item>
+
+    </group>
+
+</menu>

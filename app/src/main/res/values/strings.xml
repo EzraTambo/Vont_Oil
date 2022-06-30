@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_gallery">menu</string>
+    <string name="menu_slideshow">slideshow</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="facebook">facebook</string>
+    <string name="instagram">instagram</string>
+    <string name="Signout">Signout</string>
+    <string name="nav_header_desc">nav_header_description</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="app_name">"My App"</string>
+    <string name="title_activity_extras_vont">title_activity_extras_vont</string>
+    <string name="title_activity_login">title_activity_login </string>
+    <string name="action_settings">string_action_settings</string>
+</resources>

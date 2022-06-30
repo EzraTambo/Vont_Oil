@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/cut_card.xml" value="0.1285" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/ic_baseline_dashboard_24.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/ic_instagram_square_brands.xml" value="0.1285" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1285" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1285" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1285" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1285" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1285" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/ic_reviewicon.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/rateus.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/drawable/review.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/font/montserrat_bold.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1144578313253012" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/activity_dashboard.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/activity_extras_vont.xml" value="0.33" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/activity_facebook.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/activity_instagram.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/activity_login.xml" value="0.178125" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/activity_maps.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/activity_rate_us.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/activity_signout.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/app_bar_extras_vont.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/content_extras_vont.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/fragment_gallery.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/fragment_home.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/fragment_slideshow.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/layout/nav_header_extras_vont.xml" value="0.33" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/menu/extras__vont.xml" value="0.22" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/mipmap-anydpi-v26/ic_launcher_circle.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/mipmap-anydpi-v26/ic_review.png.xml" value="0.1285" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Vont_Oil/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

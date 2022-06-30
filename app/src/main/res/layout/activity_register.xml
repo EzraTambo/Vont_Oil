@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".clientLogin">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="500dp"
+                android:layout_height="343dp"
+                android:src="@drawable/vont" />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:letterSpacing="0.03"
+                android:text="Sign Up"
+                android:textColor="#0d6e6a"
+                android:textSize="35dp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/Email2"
+                android:layout_width="350dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/forget"
+                android:inputType="textEmailAddress"
+                android:paddingLeft="20dp"
+                android:text="Email"
+                android:textColor="#4EA651"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/password2"
+                android:layout_width="350dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/forget"
+                android:inputType="textAutoComplete"
+                android:paddingLeft="20dp"
+                android:text="Password"
+                android:textColor="#1C6E0D"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <EditText
+
+                android:id="@+id/phonenumber"
+                android:layout_width="350dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/forget"
+                android:inputType="number"
+                android:paddingLeft="20dp"
+                android:text="phone number"
+                android:textColor="#4EA651"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+
+            <Button
+                android:id="@+id/SignupButton2"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/forget"
+                android:backgroundTint="@color/lightgreen"
+                android:gravity="center"
+                android:onClick="Signup"
+                android:text="SignUp"
+                android:textColor="@color/lightgreen"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/RegisterLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:onClick="Register"
+                android:text="you have an account? Login"
+                android:textColor="#4CAF50"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
